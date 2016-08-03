@@ -1,1 +1,4 @@
 heyo
+
+LICENSE: 
+MIT LICENSE
